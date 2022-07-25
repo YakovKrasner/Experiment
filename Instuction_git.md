@@ -9,7 +9,7 @@ Git - это один из вариантов реализаци ситемы к
 
     git config --global user.name "username"
 
-Представление для Git электроннйо почты пользователя 
+Представление для Git электронной почты пользователя 
 
     git config --global user.email "email"
 
