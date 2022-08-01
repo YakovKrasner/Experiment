@@ -71,6 +71,10 @@ Git - это один из вариантов реализаци ситемы к
 
     git checkout branch_name
 
+Удаление ветки
+
+    git branch -d branchname
+
 Для объединения двух веток, где branchename - имя ветки, которую объединяем с текущей веткой
 
     git merge branchename
