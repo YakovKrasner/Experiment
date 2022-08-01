@@ -1,6 +1,6 @@
 # **Инструкция по работе с Git**
 
-![Логотип](gamazovyy-kleshch-600x521.jpg)
+![Логотип](siroezhka.jpg)
 
 ## Определение Git
 
